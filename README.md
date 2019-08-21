@@ -4,7 +4,7 @@ Gå til [theginger.dk](http://lego-case.theginger.dk) for online version.
 
 ## Project setup
 ```
-yarn install
+yarn
 
 npm install
 ```
