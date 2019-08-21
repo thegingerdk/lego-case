@@ -1,0 +1,124 @@
+{
+  "data": [
+	  {
+		  "id": 1,
+		  "categories": ["trousers", "clothing", "male"],
+		  "vendor": "Fjällräven",
+		  "name": "Abisko Trekking Tights",
+		  "image": "594a2adb386e7Abisko_Trekking_Tights_Black_81506-550.webp",
+		  "price": 1399.00
+	  },
+	  {
+		  "id": 2,
+		  "categories": ["trousers", "clothing", "male"],
+		  "vendor": "Fjällräven",
+		  "name": "Keb Trousers Long herrebukser",
+		  "image": "keb_trousers_m_85656-550_black-a_main.webp",
+		  "price": 1799.00
+	  },
+	  {
+		  "id": 3,
+		  "categories": ["trousers", "clothing", "male"],
+		  "vendor": "Fjällräven",
+		  "name": "Vidda Pro Trousers Regular",
+		  "image": "5652ee0a1005cVidda_Pro_Trousers_Regular_81760R-black-black-550-550.webp",
+		  "price": 1299.00
+	  },
+	  {
+		  "id": 4,
+		  "categories": ["trousers", "clothing", "male"],
+		  "vendor": "Fjällräven",
+		  "name": "Traveller Zip-Off Trousers Men",
+		  "image": "travellers_zip_off_trousers_dark_grey_81537-030.webp",
+		  "price": 1299.00
+	  },
+	  {
+		  "id": 5,
+		  "categories": ["trousers", "clothing", "male"],
+		  "vendor": "Fjällräven",
+		  "name": "Karl Pro Zip-off Trousers",
+		  "image": "594a7954503b0Karl_Pro_Zip_Off_Trousers_81463-030_darkgrey.webp",
+		  "price": 1299.00
+	  },
+	  {
+		  "id": 6,
+		  "categories": ["trousers", "clothing", "male"],
+		  "vendor": "Fjällräven",
+		  "name": "Abisko Lite Trekking Zip-Off Trousers Regular herrebukser",
+		  "image": "5887507612aeeabisko_lite_trekking_zipoff_trousers_Sand_Tarmac_81535R-220-246.webp",
+		  "price": 1599.00
+	  },
+	  {
+		  "id": 7,
+		  "categories": ["shirt", "clothing", "female"],
+		  "vendor": "Fjällräven",
+		  "name": "Keb Wool T-shirt LS Women damebluse",
+		  "image": "keb_wool_t-shirt_ls_w_89753-550_black_1_1.jpg",
+		  "price": 999.00
+	  },
+	  {
+		  "id": 8,
+		  "categories": ["jacket", "clothing", "female"],
+		  "vendor": "Fjällräven",
+		  "name": "Anorak No.8",
+		  "image": "anorak_no8_dark-grey-83242-030.webp",
+		  "price": 3699.00
+	  },
+	  {
+		  "id": 9,
+		  "categories": ["jacket", "clothing", "female"],
+		  "vendor": "Fjällräven",
+		  "name": "Övik Fleece Hoodie herrefleece",
+		  "image": "558804ea0c519Ovik_Fleece_Hoodie_82252-030_Dark-Grey.webp",
+		  "price": 1299.00
+	  },
+	  {
+		  "id": 10,
+		  "categories": ["shirt", "clothing", "female"],
+		  "vendor": "Fjällräven",
+		  "name": "Bergtagen Woolmesh Sweater undertrøje",
+		  "image": "5947d6ab71a54Bergtagen_Woolnet_Sweater_83989-020_grey_front.webp",
+		  "price": 1199.00
+	  },
+	  {
+		  "id": 11,
+		  "categories": ["jacket", "clothing", "female"],
+		  "vendor": "Fjällräven",
+		  "name": "Drev Jacket herrejakke",
+		  "image": "5270d839c1752Drev-Jacket_Dark-Olive_90333_633_1.webp",
+		  "price": 2899.00
+	  },
+	  {
+		  "id": 12,
+		  "categories": ["jacket", "clothing", "female"],
+		  "vendor": "Fjällräven",
+		  "name": "Singi Anorak herrejakke",
+		  "image": "singi_anorak_storm_dark_navy_82248-555.webp",
+		  "price": 2199.00
+	  },
+	  {
+		  "id": 13,
+		  "categories": ["accessories", "male", "female"],
+		  "vendor": "Fjällräven",
+		  "name": "Greenland Wax voks",
+		  "image": "5231677430c90Greenland-Wax_79060-000_1.webp",
+		  "price": 69.00
+	  },
+	  {
+		  "id": 14,
+		  "categories": ["trousers", "skirts", "clothing", "female"],
+		  "vendor": "Fjällräven",
+		  "name": "Övik Travel Skirt skort",
+		  "image": "_vik_travel_skirt_w_89844-555_darl_navy (1).webp",
+		  "price": 1099.00
+	  },
+	  {
+		  "id": 15,
+		  "categories": ["bags", "male", "female"],
+		  "vendor": "Fjällräven",
+		  "name": "Rucksack No.21 Medium rygsæk",
+		  "image": "rucksack-no21-medium_navy_24205-560_1.webp",
+		  "price": 1499.00
+	  }
+  ]
+}
